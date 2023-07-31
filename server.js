@@ -13,3 +13,27 @@ function square(num){
 }
 
 remainder = int % dispatch
+
+
+
+
+
+
+
+const square = (num) => Number(num.toString().split('').map(e=>e*e).join(''))
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

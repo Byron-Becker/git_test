@@ -12,3 +12,4 @@ function square(num){
 
 }
 
+remainder = int % dispatch

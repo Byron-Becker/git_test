@@ -19,4 +19,22 @@ MongoClient.connect('connection key', (err, client) => {
     app.get
 })
 
+app.get('/', (req,res) => {
+    res.sendFile(__dirname +'/index.html')
+})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
